@@ -1,1 +1,1 @@
-"# readiness_score" 
+# readiness_score
